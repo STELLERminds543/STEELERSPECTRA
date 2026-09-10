@@ -1,0 +1,6 @@
+{
+  "name": "SpectraScan by Stellar Minds",
+  "description": "Retro-industrial hardware accessibility platform showcasing SpectraScan V1, V2, V3 with interactive 3D Spline experiences and differentiation architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
